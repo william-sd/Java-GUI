@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Principal {
+public class Frame {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Olá Mundo!");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
